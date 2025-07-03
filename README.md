@@ -1,1 +1,1 @@
-https://maze-f4s4.onrender.com/
+maze-f4s4.onrender.com
